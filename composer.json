@@ -1,0 +1,21 @@
+{
+    "name": "breaktag/laravel-untappd",
+    "description": "Laravel package to connect with the Untappd API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "benr1804",
+            "email": "benr1804@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Breaktag\\LaravelUntappd\\": "src/"
+        }
+    }
+}
