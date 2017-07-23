@@ -1,6 +1,6 @@
 <?php
 
-namespace Breaktag\LaravelUntappd;
+namespace Breaktag\LaravelUntappd\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Container\Container;
